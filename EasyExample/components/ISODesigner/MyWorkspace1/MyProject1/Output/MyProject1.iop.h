@@ -68,4 +68,3 @@
 #define ObjectPointer_Gesamtziel          27003
 #define AuxFunction2_PlusPlus             29000
 #define AuxFunction2_MinusMinus           29001
-#define ExternalObjectDefinition_38000    38000
